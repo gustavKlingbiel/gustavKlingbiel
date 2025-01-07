@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @gustavKlingbiel, your friendly neighbourhood student actuary on a quest to become a certified wizard in the world of numbers!
-- 👀 I’m interested in actuary stuff, insurtech sorcery, and using AI to turn claims into mere myths. 
-- 🌱 I’m currently learning how to tame advanced AI techniques without accidentally summoning a digital monster. 
-- 💞️ I’m looking to collaborate on projects that make claims processing smoother than a freshly brewed cup of coffee (which, by the way, I consume in large quantities!).
-- 📫 How to reach me: I’m probably lurking on GitHub or trying to figure out LinkedIn like it’s a riddle wrapped in a mystery inside an enigma.
-- ⚡ Fun fact: I love hiking in the Drakensberg mountains, where I pretend to be a mountain goat, and I’m also a coffee fan—my lifeblood and spirit animal!
-- 📝 Yes, ChatGPT wrote this! (Don’t worry, it’s not plotting to take over the world… yet!)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gustav Klingbiel
+========================================================================================================================================
 
-<!---
-gustavKlingbiel/gustavKlingbiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Claims the Third actuary in the making
+--------------------------------------
+
+I decided to join Naked for the coffee... but I also love building a nice genAI agent to automate something in the claims space
+
+* 🌍  I'm based in Johannesburg, which is much better than PTA by the way
+* ✉️  You can contact me at [@gustav on Slack](mailto:@gustav on Slack)
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/gustavKlingbiel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gustavklingbiel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
